@@ -7,3 +7,6 @@ Para o Projeto foi utilizado as linguagens:<br>
 
 - HTML5
 - CSS3
+
+Segue Link do GitPages:<br>
+https://will-freire.github.io/projeto-reconstruindo-login-instagram/
